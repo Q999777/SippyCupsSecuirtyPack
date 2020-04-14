@@ -1,0 +1,7 @@
+Tips:
+-- Dont click any links
+-- Cover your camera
+-- Dont ever give any information about your name or social medias, or device.
+-- Dont go full screen on messages sent by people (Ip loggers or trojans {or malware} can be excuted)
+-- Dont download any services that are unknown or not verified
+-- Dont misspell known websites Example: [mir{no c}osoft.com]

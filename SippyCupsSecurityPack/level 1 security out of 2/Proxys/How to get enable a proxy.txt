@@ -1,0 +1,4 @@
+Click the circle (search for apps) by the windows icon, then search (Proxy settings) go on the settings
+then do the following go all the way to the bottom and click use proxy, under that where it says address put in
+whatever ip you took from the proxy list US: (18.191.103.243:3128) then for the port put 808 and for the box under do this
+*.local then your done.  You can save it.  Close the settings and now you have a proxy.
